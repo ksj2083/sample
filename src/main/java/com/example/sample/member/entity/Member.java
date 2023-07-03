@@ -20,4 +20,6 @@ public class Member {
 
     private String nickName;
 
+    private int age;
+
 }
