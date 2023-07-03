@@ -16,7 +16,7 @@ public class Member {
 
     private String userName; // 로그인용 아이디
 
-    private String password;
+    private String myPassword;
 
     private String nickName;
 
