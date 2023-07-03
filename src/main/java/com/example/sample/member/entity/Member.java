@@ -20,6 +20,6 @@ public class Member {
 
     private String nickName;
 
-    private String aaa;
+    private String aab;
 }
 
