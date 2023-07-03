@@ -22,3 +22,4 @@ public class Member {
 
     private String aaa;
 }
+
