@@ -20,4 +20,6 @@ public class Member {
 
     private String nickName;
 
+    private String address;
+
 }
