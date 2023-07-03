@@ -22,4 +22,6 @@ public class Member {
 
     private String address;
 
+    private int age;
+
 }
