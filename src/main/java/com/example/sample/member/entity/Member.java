@@ -14,7 +14,7 @@ public class Member {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
-    private String loginId; // 로그인용 아이디
+    private String nameUser; // 로그인용 아이디
 
     private String myPassword;
 
